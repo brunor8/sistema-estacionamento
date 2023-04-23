@@ -1,2 +1,2 @@
 # .NET
-Programas desenvolvidos em .NET utilizando a linguagem C#.
+Sistema de um estacioanmento desenvolvido em C# utilizando .NET.
