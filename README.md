@@ -1,2 +1,2 @@
 # .NET
-Sistema de um estacioanmento desenvolvido em C# utilizando .NET.
+Sistema de um estacionamento desenvolvido em C# utilizando .NET.
